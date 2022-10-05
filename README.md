@@ -1,10 +1,10 @@
-### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Mildred
+## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Mildred
 
-Chemical engineering sometimes, Developer all the time but definitely always learning😅
+Chemical engineering student sometimes, Developer all the time but definitely always learning😅
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Js React and Node
-- 👯 I’m looking to collaborate on Open source Projects
+- 🔭 I’m currently working on open source projects
+- 🌱 Learning Js React and Node
+- 👯 Looking to collaborate with other Devs, Designers and Open source Projects 
 - 📫 Reach me @ mildredwale@gmail.com
 - ⚡ Fun fact: I love pasta🍝 and sleep.
 I am an avid learner of new technologies
